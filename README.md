@@ -8,7 +8,7 @@ Then run the setup.bat and make sure to have python installed from the website
 
 Once installed requirements, double tap run.bat and this will open and run the file and run the tool.
 
-    or
+OR
     
 `pip install colorama`
 `pip install requests`
@@ -16,6 +16,8 @@ Once installed requirements, double tap run.bat and this will open and run the f
 
 Then click on the folder and type cmd from here type `python main.py`
 or open cmd and type `cd C:\Users\urname\Downloads\CCGen` and `py main.py`
+
+
 
 
 # Preview
